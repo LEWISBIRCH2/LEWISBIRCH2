@@ -4,7 +4,7 @@ My name's Lewis, and I'm striving to become a Software Dev!
 
 I'm currently looking for full-time work as an Apprentice, Junior, or Trainee Software Developer.
 
-
+---
 
 
 🌱 I’m currently learning MongoDB, AWS, and Kotlin 
