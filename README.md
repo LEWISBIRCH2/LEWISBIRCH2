@@ -5,11 +5,15 @@ My name's Lewis, and I'm striving to become a Software Dev!
 I'm currently looking for full-time work as an Apprentice, Junior, or Trainee Software Developer.
 
 
+
+
 🌱 I’m currently learning MongoDB, AWS, and Kotlin 
 
 💬 Ask me about frontend styling or React 
 
-🔭 I’m currently working on a MERN stack (freelance) project which allows users to securely log in and create their own personal exhibitions with artwork from around the globe
+🔭 I’m currently working on a MERN stack (freelance) project which allows users to securely log in and create their own personal exhibitions with artwork from around the globes
+
+💪 I'm confident working with JavaScript, Node.js, Vite, React, CSS, HTML, PSQL, and more 
 
 
 
