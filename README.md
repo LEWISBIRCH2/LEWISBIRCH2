@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 My name's Lewis, and I'm striving to become a Software Dev!
 
