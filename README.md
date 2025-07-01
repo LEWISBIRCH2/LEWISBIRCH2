@@ -2,16 +2,14 @@
 
 My name's Lewis, and I'm striving to become a Software Dev!
 
-I'm currently looking for full-time work as an Apprentice, Junior, or Trainee Software Developer.
+I'm looking for full-time work as an Apprentice, Junior, or Trainee Software Developer.
 
 ---
 
 
-🌱 I’m currently learning Java 
+🌱 I’m currently pushing my knowledge of JavaScript further
 
 💬 Ask me about frontend styling or React 
-
-🔭 I’m currently refactoring a MERN stack project to reduce redundant code
 
 💪 I'm confident working with JavaScript, Node.js, Vite, React, CSS, HTML, PSQL, and more 
 
